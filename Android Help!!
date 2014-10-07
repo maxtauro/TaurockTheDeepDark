@@ -1,0 +1,15 @@
+Android Help!!
+
+Shortcuts
+1. Fix errors - alt + enter
+2. Go to other file - control + click
+
+1. Navigating the folders in your project
+	- DungeonGame
+	- app
+	- src
+	- main 
+	- java to get to Activites
+	- res -> layout to get to layouts
+
+2. How to make a button/text/whatever do something
