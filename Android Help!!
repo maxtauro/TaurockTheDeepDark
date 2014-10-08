@@ -13,3 +13,16 @@ Shortcuts
 	- res -> layout to get to layouts
 
 2. How to make a button/text/whatever do something
+    - make activity implement View.OnClickListener
+    - implement onClick()
+    - button.setOnClickListener(this)
+
+3. What to do on git hub
+- git pull
+grabs all changes from github that someone else may have made
+
+- git commit
+commits your changes saves them locally
+
+- git push
+will put all commits onto github (ONLY DO THIS WITH CODE THAT YOU ARE SURE IS GOOD - CANNOT FIX ONCE PUSHED)
