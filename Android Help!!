@@ -26,8 +26,3 @@ commits your changes saves them locally
 
 - git push
 will put all commits onto github (ONLY DO THIS WITH CODE THAT YOU ARE SURE IS GOOD - CANNOT FIX ONCE PUSHED)
-
-4. How to open in Android studio
-	- open android studio
-	- click on Import Project
-	- find this project and click on first build.gradle
